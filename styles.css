@@ -1,0 +1,54 @@
+#header {
+    background-color:rgb(142, 216, 250);
+    border-radius: 10px;
+}
+
+.navigation {
+    gap: 10px;
+}
+
+#h2 {
+    font-family: Great Vibes;
+
+}
+
+.box {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
+    background-color: rgb(240, 245, 173);
+}
+
+#image {
+    padding-top: 5px;
+}
+
+.box1 {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: azure;
+    padding-right: 7px;
+}
+
+.box2 {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.box3 {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.box4 {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: azure;
+}
+
+.p1 {
+    background-image: ;
+}
