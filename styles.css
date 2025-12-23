@@ -1,5 +1,5 @@
 #header {
-    background-color:rgb(142, 216, 250);
+    background-color: rgb(142, 216, 250);
     border-radius: 10px;
 }
 
@@ -12,43 +12,70 @@
 
 }
 
-.box {
-    border: 2px solid black;
-    border-radius: 10px;
-    padding-left: 2px;
-    padding-right: 2px;
-    background-color: rgb(240, 245, 173);
-}
-
 #image {
     padding-top: 5px;
 }
 
 .box1 {
-    border: 2px solid black;
+    border: 2px solid rgb(14, 100, 40);
     border-radius: 10px;
-    background-color: azure;
+    background-color: rgb(129, 247, 129);
     padding-right: 7px;
+    box-shadow:
+     0 0 20px #00ff00;
+    
 }
 
 .box2 {
-    border: 2px solid black;
+    border: 2px solid rgb(1, 64, 75);
     border-radius: 10px;
-    background-color: azure;
+    background-color: rgb(61, 245, 245);
+    box-shadow:
+        0 0 20px #4ea5df;
+
 }
 
 .box3 {
-    border: 2px solid black;
+    border: 2px solid rgb(131, 4, 89);
     border-radius: 10px;
-    background-color: azure;
+    background-color: rgb(224, 143, 231);
+    box-shadow:
+        0 0 20px #f302cb;
 }
 
 .box4 {
-    border: 2px solid black;
+    border: 2px solid rgb(207, 8, 8);
     border-radius: 10px;
-    background-color: azure;
+    background-color: rgb(252, 172, 120);
+    box-shadow: 0 0 20px #ff7b00;
 }
 
-.p1 {
-    background-image: ;
+.button {
+    border-radius: 10px;
+    background-color: rgb(154, 154, 247);
+    border: 2px solid #4ea5df;
+    align: left;
+
 }
+
+#para {
+    color: white;
+}
+
+body {
+    background: linear-gradient(135deg, #0c0c0c, #1a1a2e);}
+
+ select {
+    border-radius: 10px;
+    border-color: darkgoldenrod;
+    background-color:darkgoldenrod;
+    }
+ 
+    marquee {
+        font-family: cursive;
+    }
+
+    .footer{
+        background-color: rgb(142, 216, 250);
+        color:#0c0c0c
+    }
